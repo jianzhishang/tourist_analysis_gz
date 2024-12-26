@@ -1,5 +1,8 @@
 # tourist_analysis_gz
 基于bert模型的情感分析模型训练
+
 model存放的由bert中文模型训练的情感分析模型
+
 ChnSentiCorp存放的是训练情感分析模型的训练集和验证集
+
 comment存放的是游客对广州各景区的评论数据
