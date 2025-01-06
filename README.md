@@ -1,2 +1,6 @@
 # tourist_analysis_gz
 基于bert模型的情感分析模型训练
+model里面存放的是训练好的情感分析模型
+comment里面存放的是从大众点评爬取的评论区数据以及爬虫代码
+ChnSentiCorp存放的是用于训练情感分析模型的训练数据集
+attractions_table.png是分析评论数据结果图表
